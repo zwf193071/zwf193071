@@ -14,7 +14,7 @@
 - [js-everywhere-learn](https://github.com/zwf193071/js-everywhere-learn) JS-Everywhere学习案例  
 - [webassembly-study](https://github.com/zwf193071/webassembly-study) webassembly学习案例
    
-[查看更多](https://github.com/zwf193071/)	 
+[查看更多](https://github.com/zwf193071?tab=repositories)	 
 
 	
 </td>
