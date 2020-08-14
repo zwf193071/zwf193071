@@ -21,11 +21,11 @@
 <td valign="top" width="50%">
 
 ### 我的博客
+- [如何用python群发工资条](https://blog.csdn.net/zwf193071/article/details/108011452)
+- [Virtual Dom的简单实现及其功能点描述](https://blog.csdn.net/zwf193071/article/details/108004011)
 - [自动打包多个js文件工具，原理类似webpack](https://blog.csdn.net/zwf193071/article/details/107843865)
 - [vue项目内自动生成页面，zash-cli](https://blog.csdn.net/zwf193071/article/details/107761790)
 - [React项目中使用scss，遇上node-sass安装不上的解决方法](https://blog.csdn.net/zwf193071/article/details/107493419)
-- [基于已有的vue项目，搭建mocha+karma+phantomjs测试](https://blog.csdn.net/zwf193071/article/details/105703405)
-- [使用webpack，vue文件导入样式文件报错](https://blog.csdn.net/zwf193071/article/details/51095035)
 
 [查看更多](https://blog.csdn.net/zwf193071)
 
