@@ -21,11 +21,11 @@
 <td valign="top" width="50%">
 
 ### 我的博客
+- [JS Object的键值若为对象，会怎样？](https://blog.csdn.net/zwf193071/article/details/108278200)
+- [如何遍历取出HTMLCollection里各个节点的属性值，并生成数组](https://blog.csdn.net/zwf193071/article/details/108273870)
 - [VSCODE里调试go](https://blog.csdn.net/zwf193071/article/details/108198244)
 - [多次提交，github上却没有记录contribution](https://blog.csdn.net/zwf193071/article/details/108140938)
 - [Shell命令学习笔记](https://blog.csdn.net/zwf193071/article/details/108048481)
-- [算法汇集](https://blog.csdn.net/zwf193071/article/details/108048393)
-- [如何用python群发工资条](https://blog.csdn.net/zwf193071/article/details/108011452)
 
 [查看更多](https://blog.csdn.net/zwf193071)
 
