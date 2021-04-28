@@ -1,8 +1,20 @@
  
+### Hi there, I'm Lucy Zhu 👋
+
+Now I'm working at SF Express Ltd as a web frontend engineer.
+
 9年前端开发程序猿，传说中的背锅大师 🐶，一直致力于研究并探索各种机制的底层原理
 
-现定居于武汉，专注于前端，热衷于学习Go、web assembly、Nodejs等知识点，预期发展方向为全栈工程师	 
+现定居于武汉，专注于前端，热衷于学习Go、web assembly、Nodejs等知识点，预期发展方向为全栈工程师
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+[![zwf193071's github stats](https://github-readme-stats.vercel.app/api?username=zwf193071)](https://github.com/anuraghazra/github-readme-stats)
 
 <table><tr>
 <td valign="top" width="50%">
