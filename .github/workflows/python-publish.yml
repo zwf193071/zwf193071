@@ -14,7 +14,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest   # 使用最新版ubuntu镜像 
+    runs-on: ubuntu-latest   # 使用最新版ubuntu镜像
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps: 
@@ -36,8 +36,8 @@ jobs:
     - name: Commit and push if changed   # 将README.md更新到仓库
       run: |
         git diff
-        git config --global user.email "zwf193071@gmail.com"
-        git config --global user.name "zwf"
+        git config --global user.email "997131679@qq.com"
+        git config --global user.name "zwf193071"
         git add -A
         git commit -m "Updated Readme" || exit 
         git push
