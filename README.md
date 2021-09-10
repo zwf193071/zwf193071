@@ -7,6 +7,9 @@ Now I'm working at SF Express Ltd as a web frontend engineer.
 
 现定居于武汉，专注于前端，热衷于学习Go、web assembly、Nodejs等知识点，预期发展方向为全栈工程师
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwf193071&layout=compact)
+
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
